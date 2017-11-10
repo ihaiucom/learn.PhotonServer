@@ -1,0 +1,6 @@
+C:\zengfeng\Photon\ServerSDK\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\ZFChatServer\bin\ZFChatServer.dll
+C:\zengfeng\Photon\ServerSDK\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\ZFChatServer\bin\ZFChatServer.pdb
+C:\zengfeng\Photon\ServerSDK\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\ZFChatServer\obj\Debug\ZFChatServer.dll
+C:\zengfeng\Photon\ServerSDK\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\ZFChatServer\obj\Debug\ZFChatServer.pdb
+C:\zengfeng\Photon\ServerSDK\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\ZFChatServer\bin\log4net.config
+C:\zengfeng\Photon\ServerSDK\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\ZFChatServer\obj\Debug\ZFChatServer.csprojResolveAssemblyReference.cache

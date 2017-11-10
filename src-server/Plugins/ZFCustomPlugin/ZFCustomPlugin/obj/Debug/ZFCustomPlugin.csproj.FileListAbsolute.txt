@@ -1,0 +1,5 @@
+C:\zengfeng\Photon\ServerSDK\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\ZFCustomPlugin\bin\ZFCustomPlugin.dll
+C:\zengfeng\Photon\ServerSDK\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\ZFCustomPlugin\bin\ZFCustomPlugin.pdb
+C:\zengfeng\Photon\ServerSDK\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Plugins\ZFCustomPlugin\ZFCustomPlugin\obj\Debug\ZFCustomPlugin.csprojResolveAssemblyReference.cache
+C:\zengfeng\Photon\ServerSDK\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Plugins\ZFCustomPlugin\ZFCustomPlugin\obj\Debug\ZFCustomPlugin.dll
+C:\zengfeng\Photon\ServerSDK\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Plugins\ZFCustomPlugin\ZFCustomPlugin\obj\Debug\ZFCustomPlugin.pdb
